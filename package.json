@@ -1,0 +1,37 @@
+{
+  "name": "ng-payment-card",
+  "version": "0.0.8",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bartosz-D3V/ng-payment-card.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ng",
+    "payment",
+    "credit",
+    "debit",
+    "card",
+    "checkout",
+    "angular",
+    "component",
+    "material"
+  ],
+  "peerDependencies": {
+    "@angular/common": ">=2.0.0",
+    "@angular/core": ">=2.0.0"
+  },
+  "main": "bundles/ng-payment-card.umd.js",
+  "module": "fesm5/ng-payment-card.js",
+  "es2015": "fesm2015/ng-payment-card.js",
+  "esm5": "esm5/ng-payment-card.js",
+  "esm2015": "esm2015/ng-payment-card.js",
+  "fesm5": "fesm5/ng-payment-card.js",
+  "fesm2015": "fesm2015/ng-payment-card.js",
+  "typings": "ng-payment-card.d.ts",
+  "metadata": "ng-payment-card.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
